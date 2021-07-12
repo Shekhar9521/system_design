@@ -43,7 +43,7 @@ These talks should give you a starting point on how to think about such problems
 
 But before you begin, here are some topics(in no particular order) which in my opinion you should have a decent idea of before proceeding.
 
-1. Operating system basics: how a file system, virtual memory, paging, instruction execution cycle etc work
+1. Operating system basics: how a file system, virtual memory, paging, instruction execution cycle etc work.
 (For starters silbershatz should be enough. If you already have decent knowledge try stallings book on OS)
 2. Networking basics: 
 Should know the TCP/IP stack, basics of how Internet, HTTP, TCP/IP work at the minimum. cs75 on youtube (1st lecture) should give a broad overview. I personally love [networking-a top down approach](http://www.amazon.com/Computer-Networking-Top-Down-Approach-Edition/dp/0132856204).
